@@ -5,7 +5,8 @@ India Travel &amp; Tourism data from foreigns information summary during 2001-20
 Please go to https://tabsoft.co/3gBYpPP
 
 # How to create this dashboard 
-Please go to https://youtu.be/5rHrAg519kA
+Please see how to create this dashboard step-by-step from Youtube link https://youtu.be/5rHrAg519kA
+Enjoy the music!!
 
 # Dataset 
 One single file from : https://bit.ly/3sOJ6G5
